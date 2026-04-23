@@ -103,6 +103,9 @@ src/
 
 ## 📸 Screenshots
 
+![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/security.png)
+![Dashboard](screenshots/analytics.png)
 
 
 ---
